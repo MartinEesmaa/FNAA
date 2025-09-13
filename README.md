@@ -41,7 +41,7 @@ Please try again and if the problem persists, please feel free to create an issu
 
 [Link of releases](https://github.com/MartinEesmaa/FNAA/releases) contains original download link of Internet Archive and patch diff/xdelta file from original FNAF game of Windows version for update mod.
 
-Please be aware that it will contain patch file only to avoid violating copyright infringments for use of prebinary executable modded file.
+Please be aware that it will contain patch file only to avoid violating copyright infringements for use of prebinary executable modded file.
 
 Diff patch file can be applied from original FNAF game to modded game:
 
