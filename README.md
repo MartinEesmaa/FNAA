@@ -11,6 +11,7 @@ You need to mod or/and develop the fan mod game by
 - Perspective.mfx extension module installed
 - HDiffPatch
 - Original MFA source project file
+- Delta Patcher to patch xdelta file
 
 ## Run the game
 
@@ -34,15 +35,17 @@ Otherwise, if the file is different. It may be:
 
 Please try again and if the problem persists, please feel free to create an issue.
 
-[Link of releases](https://github.com/MartinEesmaa/FNAA/releases) contains prezipped executable file with encrypted passphrase and patch diff file from original FNAF game of Windows version for update mod.
+[Link of releases](https://github.com/MartinEesmaa/FNAA/releases) contains original download link of Internet Archive and patch diff/xdelta file from original FNAF game of Windows version for update mod.
 
-The password of zipped file is: `heyarnold-MartinEesmaa`.
+Please be aware that it will contain patch file only to avoid violating copyright infringments for use of prebinary executable modded file.
 
 Diff patch file can be applied from original FNAF game to modded game:
 
 ```
 hpatchz "Five Nights at Freddy's.exe" FNAA-MartinEesmaa-Windows.diff FNAA-MartinEesmaa.exe
 ```
+
+Or [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases) via GUI.
 
 ## Source project
 
