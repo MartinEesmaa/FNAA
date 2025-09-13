@@ -13,6 +13,10 @@ You need to mod or/and develop the fan mod game by
 - Original MFA source project file
 - Delta Patcher to patch xdelta file
 
+## Sample screenshots
+
+Sample screenshots can be found at [screenshots](screenshots) folder.
+
 ## Run the game
 
 Ensure you have original Five Nights at Freddy's for Windows executable version and make sure MD5 checksum is matched of v1.132:
