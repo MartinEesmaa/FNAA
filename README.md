@@ -20,6 +20,10 @@ Ensure you have original Five Nights at Freddy's for Windows executable version 
 MD5: d926fee3666c1c854a475a9766ad7ff7
 ```
 
+Link of [archive.org](https://archive.org/details/five_nights_at_freddys_windows) for Windows version
+
+Reminder: If you love the game, please consider support, purchase the game or/and donate to Scott Cawthon for his hard work.
+
 If the file is identical, then it is ready to go. 
 
 Otherwise, if the file is different. It may be:
