@@ -6,12 +6,41 @@ Five Nights at Arnold's - Fan based game mod by Martin Eesmaa
 
 You need to mod or/and develop the fan mod game by
 
+- Latest version copy of Five Nights at Freddy's (v1.132)
 - Clickteam Fusion 2.5 (paid developer for executable applications, free only for HTML5 export) 
 - Perspective.mfx extension module installed
 - HDiffPatch
 - Original MFA source project file
 
-## Installation
+## Run the game
+
+Ensure you have original Five Nights at Freddy's for Windows executable version and make sure MD5 checksum is matched of v1.132:
+
+```
+MD5: d926fee3666c1c854a475a9766ad7ff7
+```
+
+If the file is identical, then it is ready to go. 
+
+Otherwise, if the file is different. It may be:
+
+- Wrong version/copy or different checksum
+- Size is too small
+- Disk space full
+
+Please try again and if the problem persists, please feel free to create an issue.
+
+[Link of releases](https://github.com/MartinEesmaa/FNAA/releases) contains prezipped executable file with encrypted passphrase and patch diff file from original FNAF game of Windows version for update mod.
+
+The password of zipped file is: `heyarnold-MartinEesmaa`.
+
+Diff patch file can be applied from original FNAF game to modded game:
+
+```
+hpatchz "Five Nights at Freddy's.exe" FNAA-MartinEesmaa-Windows.diff FNAA-MartinEesmaa.exe
+```
+
+## Source project
 
 Please grab a free edition copy of Clickteam Fusion 2.5 on Steam.
 
